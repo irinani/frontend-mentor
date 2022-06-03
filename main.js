@@ -35,6 +35,13 @@ const challenges = [
     'level': 'newbie',
     'demo': '',
     'github': ''
+  },
+  {
+    'url': 'order-summary-component',
+    'name': 'Order summary card',
+    'level': 'newbie',
+    'demo': '',
+    'github': ''
   }
 ]
 
@@ -51,5 +58,3 @@ for (const challenge of challenges) {
   item.append(link)
   list.append(item)
 }
-
-console.log(challenges)
