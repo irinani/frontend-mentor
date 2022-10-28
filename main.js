@@ -42,6 +42,13 @@ const challenges = [
     'level': 'newbie',
     'demo': '',
     'github': ''
+  },
+  {
+    'url': 'social-proof-section',
+    'name': 'Social proof section',
+    'level': 'newbie',
+    'demo': '',
+    'github': ''
   }
 ]
 
