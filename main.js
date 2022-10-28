@@ -49,6 +49,13 @@ const challenges = [
     'level': 'newbie',
     'demo': '',
     'github': ''
+  },
+  {
+    'url': 'four-card-feature-section',
+    'name': 'Four card feature section',
+    'level': 'newbie',
+    'demo': '',
+    'github': ''
   }
 ]
 
